@@ -23,3 +23,8 @@ https://yadi.sk/i/XqYwUpSRrSmsqg
 Как сохранять проект
 
 https://github.com/algo1-lesnaya-skaska/lesson2/blob/master/scratch_save.pdf
+
+Link to story and games
+https://scratch.mit.edu/projects/10128197
+https://scratch.mit.edu/projects/335217396
+https://scratch.mit.edu/projects/324273527
